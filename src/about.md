@@ -1,9 +1,9 @@
 ---
-title: About This App
+title: About
 layout: page
 eleventyNavigation:
   key: main
-  title: About This App
+  title: About
   order: 1
 overrides:
   bgColor: # defaults: settings.colors.background > bg-gray-800
@@ -11,9 +11,19 @@ overrides:
   textSize: # default: text-lg
   padding: # default: px-4
 ---
+[The Doctrine of Discovery](https://doctrineofdiscovery.org/) educational resource, is lovingly maintained by [Indigenous Values Initiative](https://indigenousvalues.org/). It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-Put your "About You" information here.
+- [Doctrine of Discovery Project](https://doctrineofdiscovery.org)
+- [Mapping the Doctrine of Discovery Podcast](https://podcast.doctrineofdiscovery.org)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## [Land Acknowledgement](https://doctrineofdiscovery.org/about/#land-acknowledgement)
+
+## Contact Us
+[Indigenous Values Initiative](https://indigenousvalues.org/)
+- Philip P. Arnold, President
+- **mail:** P.O. Box 336 DeWitt, New York 13214-9211
+- **email:** info@indigenousvalues.org
+- **web:** [indigenousvalues.org](https://indigenousvalues.org)
+
 
 ---

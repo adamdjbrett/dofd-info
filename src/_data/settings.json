@@ -7,7 +7,6 @@
   "social": {
     "dev": "",
     "dribbble": "",
-    "facebook": "https://www.facebook.com/indigenousvalues",
     "facebook": "https://facebook.com/doctrineofdiscovery",
     "github": "",
     "instagram": "https://www.instagram.com/indigenousvalues",
@@ -22,18 +21,18 @@
     "fathom": ""
   },
   "colors": {
-    "background": "#7FDBFF",
-    "bodyText": "#000000",
-    "navBar": "",
-    "navText": "",
-    "navTextHover": "",
-    "navTextBackgroundHover": "",
-    "heroCaption": "",
-    "btnBackground": "",
-    "btnBorder": "",
-    "btnHover": "",
-    "btnLink": "",
-    "svgColor": "",
-    "svgHover": ""
+    "background": "950",
+    "bodyText": "50",
+    "navBar": "900",
+    "navText": "50",
+    "navTextHover": "400",
+    "navTextBackgroundHover": "800",
+    "heroCaption": "100",
+    "btnBackground": "600",
+    "btnBorder": "500",
+    "btnHover": "400",
+    "btnLink": "300",
+    "svgColor": "200",
+    "svgHover": "100"
   }
 }
