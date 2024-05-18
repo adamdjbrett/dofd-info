@@ -16,14 +16,14 @@ overrides:
 - [Doctrine of Discovery Project](https://doctrineofdiscovery.org)
 - [Mapping the Doctrine of Discovery Podcast](https://podcast.doctrineofdiscovery.org)
 
-## [Land Acknowledgement](https://doctrineofdiscovery.org/about/#land-acknowledgement)
+[Our Land Acknowledgement](https://doctrineofdiscovery.org/about/#land-acknowledgement)
 
 ## Contact Us
+  
 [Indigenous Values Initiative](https://indigenousvalues.org/)
 - Philip P. Arnold, President
 - **mail:** P.O. Box 336 DeWitt, New York 13214-9211
 - **email:** info@indigenousvalues.org
 - **web:** [indigenousvalues.org](https://indigenousvalues.org)
-
 
 ---
