@@ -21,18 +21,18 @@
     "fathom": ""
   },
   "colors": {
-    "background": "bg-purple-800",
-    "bodyText": "text-gray-500",
-    "navBar": "bg-purple-800",
-    "navText": "text-gray-300",
-    "navTextHover": "text-white",
-    "navTextBackgroundHover": "text-purple-700",
-    "heroCaption": "text-gray-600",
-    "btnBackground": "bg-purple-700",
-    "btnBorder": "bg-purple-300",
-    "btnHover": "bg-purple-600",
-    "btnLink": "text-gray-300",
-    "svgColor": "text-purple-600",
-    "svgHover": "text-gray-300"
+    "background": "",
+    "bodyText": "",
+    "navBar": "",
+    "navText": "",
+    "navTextHover": "",
+    "navTextBackgroundHover": "",
+    "heroCaption": "",
+    "btnBackground": "",
+    "btnBorder": "",
+    "btnHover": "",
+    "btnLink": "",
+    "svgColor": "",
+    "svgHover": ""
   }
 }
