@@ -1,0 +1,33 @@
+navbar_title: Doctrine of Discovery Project
+image: /images/doctrineofdiscovery.webp
+navbar:
+ - nav: About
+   link: /about
+
+footer: 
+ - icon: fa-brands fa-facebook
+   link: https://facebook.com/doctrineofdiscovery
+   title: Follow Doctrine of Discovery Project on Facebook
+ - icon: fa-brands fa-instagram
+   link: https://www.instagram.com/indigenousvalues
+   title: Follow Doctrine of Discovery Project on Instagram
+ - icon: fa-brands fa-linkedin
+   link: https://www.linkedin.com/company/indigenousvalues
+   title: Follow Doctrine of Discovery Project on LinkedIn
+ - icon: fa-brands fa-twitter
+   link: https://twitter.com/indigenousVI
+   title: Follow Doctrine of Discovery Project on Youtube
+ - icon: fa-brands fa-youtube
+   link: https://www.youtube.com/c/IndigenousValuesInitiative
+   title: Doctrine of Discovery Project Youtube Chanel
+ - icon: fa-solid fa-envelope
+   link: "mailto:info@indigenousvalues.org"
+   title: Sent Email to Doctrine of Discovery Project
+
+copyrights:
+ text1: Copyrights by
+ text2: Adam Dj Brett
+ text2_link: https://adamdjbrett.com
+ text3: built with
+ text4: 11ty
+ text4_link: https://11ty.dev
