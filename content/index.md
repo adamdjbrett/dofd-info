@@ -5,6 +5,8 @@ description: "The Doctrines of Christian Discovery (DoCD) originate with 15th ce
 image: "/images/doctrineofdiscovery.webp"
 text: "The Doctrine of Discovery project is administered by the Indigenous Values Initiative"
 link_list:
+ - name: "Reimagining Legal Frameworks: Protecting Native American Sacred Sites and Sovereignty with Michael McNally"
+   url: https://podcast.doctrineofdiscovery.org/season5/episode-05/
  - name: "Doctrine of Discovery Syllabus"
    url: "https://doi.org/10.17613/smeh-wa22"
  - name: "🎙️ S05E01: Bridging History and Today: Religion, Law, and Indigenous Influences in American Democracy with Winnifred Fallers Sullivan"
