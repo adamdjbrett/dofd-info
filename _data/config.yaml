@@ -19,7 +19,16 @@ footer:
    title: Follow Doctrine of Discovery Project on Youtube
  - icon: fa-brands fa-youtube
    link: https://www.youtube.com/c/IndigenousValuesInitiative
-   title: Doctrine of Discovery Project Youtube Chanel
+   title: Doctrine of Discovery Project Youtube Channel
+ - icon: fa-solid fa-podcast
+   link: https://podcasts.apple.com/us/podcast/mapping-the-doctrine-of-discovery/id1609802758
+   title: Doctrine of Discovery on Apple Podcasts
+ - icon: fa-brands fa-spotify
+   link: https://open.spotify.com/show/5VoYjujmNFCYS89vSsgl1c
+   title: Doctrine of Discovery Project on Spotify
+ - icon: fa-solid fa-microphone
+   link: https://pca.st/ah3neigt
+   title: Doctrine of Discovery Project on Pocket Casts
  - icon: fa-solid fa-envelope
    link: "mailto:info@indigenousvalues.org"
    title: Sent Email to Doctrine of Discovery Project
