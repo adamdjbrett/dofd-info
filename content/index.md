@@ -5,6 +5,10 @@ description: "The Doctrines of Christian Discovery (DoCD) originate with 15th ce
 image: "/images/doctrineofdiscovery.webp"
 text: "The Doctrine of Discovery project is administered by the Indigenous Values Initiative"
 link_list:
+ - name: "eurochristian part 2 by Tink Tinker"
+   url: https://thenewpolis.com/2023/03/01/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-2/
+ - name: "eurochristian part 1 by Tink Tinker"
+   url: https://thenewpolis.com/2023/02/16/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-1/
  - name: "S05E06: Rethinking Our Values: Indigenous Values for a Sustainable Future a reflection and lecture by Philip P. Arnold"
    url: https://podcast.doctrineofdiscovery.org/season5/episode-06/
  - name: "Reimagining Legal Frameworks: Protecting Native American Sacred Sites and Sovereignty with Michael McNally"
