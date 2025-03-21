@@ -17,6 +17,12 @@ link_list:
    url: https://doi.org/10.3390/rel15121493
  - name: "The First Charter of Virginia; April 10, 1606"
    url: https://avalon.law.yale.edu/17th_century/va01.asp  
+ - name: Original free Nations
+   url: https://originalfreenations.com
+ - name: "The Doctrine of Discovery: Unmasking the Domination Code"
+   url: https://vimeo.com/ondemand/dominationcode
+ - name: Doctrine of Christian Discovery Podcast
+   url: https://goodfaithmedia.org/doctrine-of-christian-discovery/
  - name: "S05E06: Rethinking Our Values: Indigenous Values for a Sustainable Future a reflection and lecture by Philip P. Arnold"
    url: https://podcast.doctrineofdiscovery.org/season5/episode-06/
  - name: "Reimagining Legal Frameworks: Protecting Native American Sacred Sites and Sovereignty with Michael McNally"
