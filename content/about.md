@@ -1,6 +1,6 @@
 ---
 title: About
-description: About Doctrine of Discovery Project
+description: Links About Doctrine of Discovery Project
 image: "/images/doctrineofdiscovery.webp"
 ---
 [The Doctrine of Discovery](https://doctrineofdiscovery.org/) educational resource, is lovingly maintained by [Indigenous Values Initiative](https://indigenousvalues.org/). It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

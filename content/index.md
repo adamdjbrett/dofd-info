@@ -1,6 +1,6 @@
 ---
 layout: "layouts/start.njk"
-title: "Doctrine of Discovery Project"
+title: "Doctrine of Discovery Project Links"
 description: "The Doctrines of Christian Discovery (DoCD) originate with 15th century Papal Bulls that were issued by the Vatican and implemented by Monarchies, sanctioning the brutal Conquest and Colonization of non-Christians who were deemed enemies of Christ in Africa and the Americas."
 image: "/images/doctrineofdiscovery.webp"
 text: "The Doctrine of Discovery project is administered by the Indigenous Values Initiative"
