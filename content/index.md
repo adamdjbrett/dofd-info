@@ -5,10 +5,14 @@ description: "The Doctrines of Christian Discovery (DoCD) originate with 15th ce
 image: "/images/doctrineofdiscovery.webp"
 text: "The Doctrine of Discovery project is administered by the Indigenous Values Initiative"
 link_list:
- - name: "S06E01: Defending Mother Earth from The Doctrine of Christian Discovery #NoKings"
-   url: https://podcast.doctrineofdiscovery.org/season6/episode-01/
  - name: "Special Issue: 200 Years of Johnson v. M’Intosh: Indigenous Responses to the Religious Foundations of Racism"
    url: https://muse.jhu.edu/issue/55074
+ - name: "Vol. 5 No. 2 (2024): From Indigenous Religions to Indigenous Values"
+   url: https://creor-ejournal.library.mcgill.ca/issue/view/12
+ - name: "Outcome of Three Years of Study 200 Years of Johnson v. McIntosh: Indigenous Responses to the Religious Foundations of Racism"
+   url: https://outcome.doctrineofdiscovery.org/
+ - name: "S06E01: Defending Mother Earth from The Doctrine of Christian Discovery #NoKings"
+   url: https://podcast.doctrineofdiscovery.org/season6/episode-01/
  - name: "S05E08: Teaching Uncomfortable History: The Doctrine of Discovery with Holly Rine"
    url: "https://podcast.doctrineofdiscovery.org/season5/episode-08/"
  - name: "Indigenous Wisdom for Planetary Healing with Yuria Celidwen" 
