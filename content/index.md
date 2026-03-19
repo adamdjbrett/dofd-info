@@ -5,6 +5,10 @@ description: "The Doctrines of Christian Discovery (DoCD) originate with 15th ce
 image: "/images/doctrineofdiscovery.webp"
 text: "The Doctrine of Discovery project is administered by the Indigenous Values Initiative"
 link_list:
+ - name: "How & Why White Supremacy Persists A conversation between Philip P. Arnold, Natalie Avalos, Teresa Smallwood, Emilie Townes, & Corey D.B Walker"
+   url: https://podcast.doctrineofdiscovery.org/season6/episode-09/
+ - name: "Challenging the Justifications of Domination Through Religion: “We Were Planting Corn and They Were Planting Crosses”"
+   url: https://jcrt.org/archives/24.2/
  - name: "Special Issue: 200 Years of Johnson v. M’Intosh: Indigenous Responses to the Religious Foundations of Racism"
    url: https://muse.jhu.edu/issue/55074
  - name: "Vol. 5 No. 2 (2024): From Indigenous Religions to Indigenous Values"
